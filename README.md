@@ -11,7 +11,8 @@ Couch trader is a platform that will allow users to manager their portfolio, con
 *Wallet net value
   - CCXT API
   - or use Exchange API for secure connection (requires API Key)
-*Sync balances from exchanges
+*Sync balances from exchanges and Australian Banks
+  - Commbank API
   - CCXT API
   - Or use Exchange API for secure connection (requires API KEY)
 
